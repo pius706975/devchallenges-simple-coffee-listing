@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://coffee-listing-cyan.vercel.app/}">
+    <a href="https://coffee-listing-cyan.vercel.app/">
       Demo 
     </a>
     <span> | </span>
-    <a href="{https://github.com/pius706975/devchallenges-simple-coffee-listing}">
+    <a href="https://github.com/pius706975/devchallenges-simple-coffee-listing">
       Solution
     </a>
     <span> | </span>
