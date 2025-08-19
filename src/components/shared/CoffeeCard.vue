@@ -1,7 +1,6 @@
 <script setup lang="ts">
+import { star, starFill } from '@/assets'
 import { computed } from 'vue'
-import star from '@/assets/star.svg'
-import starFill from '@/assets/star_fill.svg'
 
 interface Props {
     title: string
