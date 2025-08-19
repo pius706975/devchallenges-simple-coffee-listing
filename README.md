@@ -7,7 +7,7 @@
 <div align="center">
   <h3>
     <a href="{https://coffee-listing.vercel.app}">
-      Demo
+      Demo 
     </a>
     <span> | </span>
     <a href="{https://github.com/pius706975/devchallenges-simple-coffee-listing}">
